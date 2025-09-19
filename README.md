@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Alline Wamßer
+# Alline Wamßer
 
 **Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD**
 
