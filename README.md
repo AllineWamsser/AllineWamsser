@@ -41,14 +41,16 @@ Background in **Engineering & IT**, transitioning into **Cloud & DevOps** with s
 
 ---
 
-### 📈 Career Path (Mermaid Diagram)
+### 📌 Featured Projects  
 
-```mermaid
-timeline
-    title Cloud & DevOps Journey
-    2010 : IT & Engineering Foundations
-    2014 : Project Management @ Automotive Industry
-    2024 : Cloud & DevOps Specialization
-    2025 : AWS Projects & Certifications
-    2026 : Target → Cloud / DevOps Engineer Role
-📫 Connect with Me
+- 🏗️ **[Terraform AWS Infrastructure](https://github.com/AllineWamsser/iac_aws_Alline.git)**  
+  Full AWS setup with Terraform → VPC, EC2, Load Balancer, S3, RDS, IAM.  
+  ![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
+
+- ⚡ **[AWS Lambda with CDK](https://github.com/AllineWamsser/lambda_metrics_stack.git)**  
+  Lambda function deployed via AWS CDK with CloudWatch scheduled trigger.  
+  ![AWS CDK](https://img.shields.io/badge/-AWS%20CDK-563D7C?logo=awslambda&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+
+- 🐳 **[Dockerized Application (Flask + PostgreSQL)](https://github.com/AllineWamsser/AWS_grocery.git)**  
+  Containerized Flask app with PostgreSQL using Docker Compose.  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
