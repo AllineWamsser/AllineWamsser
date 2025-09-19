@@ -32,16 +32,14 @@ Background in **Engineering & IT**, transitioning into **Cloud & DevOps** with s
 </p>
 
 ---
+### 📌 Featured Projects 
 
-### 📌 Featured Projects  
 
 - 🏗️ **AWS Infrastructure with Terraform** → Full setup (VPC, EC2, ALB, S3, RDS)  
 - ⚡ **CI/CD Pipelines with GitHub Actions** → Automated build & deploy  
 - 🐳 **Dockerized Applications** → Containerization & orchestration  
 
 ---
-
-### 📌 Featured Projects  
 
 - 🏗️ **[Terraform AWS Infrastructure](https://github.com/AllineWamsser/iac_aws_Alline.git)**  
   Full AWS setup with Terraform → VPC, EC2, Load Balancer, S3, RDS, IAM.  
@@ -54,3 +52,16 @@ Background in **Engineering & IT**, transitioning into **Cloud & DevOps** with s
 - 🐳 **[Dockerized Application (Flask + PostgreSQL)](https://github.com/AllineWamsser/AWS_grocery.git)**  
   Containerized Flask app with PostgreSQL using Docker Compose.  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Methodologies & Practices
+
+•⁠  ⁠Agile (Scrum, Kanban)  
+•⁠  ⁠DevOps Culture  
+•⁠  ⁠CI/CD
+
+### 📫 Connect with Me
+
+https://github.com/AllineWamsser
+https://www.linkedin.com/alline-wamsser35/
